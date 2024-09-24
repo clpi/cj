@@ -1,6 +1,6 @@
 name = "cj"
 upload_source_maps = true
-pages_build_output_dir = ".output"
+pages_build_output_dir = ".nuxt"
 
 [dev]
 port = 3000
