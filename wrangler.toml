@@ -1,6 +1,6 @@
 name = "cj"
 upload_source_maps = true
-pages_build_output_dir = "dist"
+pages_build_output_dir = ".output"
 
 [dev]
 port = 3000
